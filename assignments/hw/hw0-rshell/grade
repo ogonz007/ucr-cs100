@@ -1,1 +1,2 @@
-/ 100
+95 / 100
+ls -l # is not working : -5
