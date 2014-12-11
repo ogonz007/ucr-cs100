@@ -1,4 +1,5 @@
-55 / 100
-part1 0 part2 30 part3 25
+75 / 100
+part1 20 part2 30 part3 25
 part1: use execvp
 part3: crash with multiple parameters
+regraded part1 - current binary is not working this shell only looking up PATH first. ./cp is showing /bin/cp instead of your cp in /bin part1 +20
